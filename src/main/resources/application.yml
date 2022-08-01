@@ -1,0 +1,7 @@
+server:
+  port: 8180
+
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
